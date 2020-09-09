@@ -1,0 +1,1 @@
+{"@name":"agl","@word":["s","u","b","a","c","u","t","e"],"@blank":["_","_","_","a","_","_","_","e"],"@reject":["i"],"@count":1,"@maxcount":9,"@guess":"%","@break":0,"@file":"savedgame1"}
